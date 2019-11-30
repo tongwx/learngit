@@ -4,3 +4,5 @@ tongwx
 白日依山尽
 黄河入海流
 欲穷千里目
+gsycl
+git config --global alias.gogo '!git add .; git commit; git push'
